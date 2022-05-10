@@ -1,0 +1,243 @@
+
+@media only screen and (max-width: 1199px){
+	.service_gallery ul.gallery_bars li {
+		margin: 8px;
+	}
+	.author_info {
+		width: 40%;
+	}
+	.single_team_member .social_icon{
+		width: 60%;
+	}
+	
+}
+
+@media only screen and (max-width: 991px){
+	.navbar-light .navbar-nav .nav-link.active::before {
+		left: 0px;
+		width: 7%;
+	}
+	.search_form {
+		margin-top: 15px;
+		width: 30%
+	}
+	.search_form .srch_icon {
+		bottom: 15px;
+		right: 68%;
+		top: auto;
+	}
+	.logo img {
+		margin-left: 15px;
+	}
+	.navbar-nav {
+		padding-left: 15px;
+	}
+	.service_gallery ul.gallery_bars li {
+		margin: 5px;
+	}
+
+		/* Testimonial */
+
+	.author_info {
+		width: 50%;
+	}
+
+	/* team area */
+
+	.single_team_member .social_icon {
+		width: 85%;
+	}
+
+	/* Get In Touch  */
+	.get_touch_details p {
+		font-size: 13px;
+		line-height: 20px !important;
+		margin-top: -8px
+	}
+
+	.get_in_touch .social_icon {
+			width: 75%;
+		}
+
+	.margin_left_70 {
+		margin-left: -40px !important;
+	}	
+	.remove_margin{
+		margin: 0px !important;
+	}
+	.post_details {
+		width: 70%;
+	}
+}
+
+
+@media only screen and (max-width: 767px){
+
+	.hero_section h1 {
+		font-size: 40px;
+	}
+
+	/* About_us */
+	.about_us .single_about {
+		margin-top: 50px;
+	}
+
+	/* Testimonial */
+	#our_carousel {
+		height: 220px;
+	}
+	.author_info {
+		width: 60%;
+	}
+
+	.carousel-inner .carousel_slider p {
+		width: 85% !important;
+	}
+
+	/* Service area */
+
+	.service_gallery ul.gallery_bars li {
+		width: 48%;
+	}
+
+	/* Get In Touch */
+	.contact_us,
+	.recent_post{
+		margin-top: 40px;
+	}
+
+	.single_post_box img {
+		margin-left: 120px;
+	}
+	.single_post_box .post_details{
+		width: 60%;
+	}
+	/* team area */
+	.single_team_member .social_icon {
+		width: 60%;
+	}
+	
+	.get_in_touch .social_icon {
+		width: 35%;
+	}
+	.get_touch_details p {
+		margin-top: 0px;
+	}
+
+	/* Footer */
+	.single_as_seen{
+		margin-top: 40px;
+	}
+	.margin_left_70 {
+		margin-left: 0px !important;
+	}
+}
+
+@media only screen and (max-width: 700px){
+	.search_form .srch_icon {
+		right: 65%;
+	}
+
+	.scroll_btn .common_btn {
+		width: 160px !important;
+	}
+}
+@media only screen and (max-width: 575px){
+
+	/* header top */
+	.navbar-light .navbar-nav .nav-link.active::before {
+		width: 10%;
+	}
+
+	/* What We Do */
+
+	.sec_title_pb {
+		padding-bottom: 0px !important;
+	}
+
+	/* Happy Clients */
+	.client_row{
+		margin-bottom: 0 !important;
+	}
+
+	/* Team Section */
+
+	.single_team_member .social_icon {
+		width: 30%;
+	}
+
+}
+
+@media only screen and (max-width: 530px){
+	.service_gallery ul.gallery_bars li {
+		width: 98%;
+	}
+}
+
+@media only screen and (max-width: 465px){
+
+	/* Header Area */
+	.search_form {
+		width: 95%;
+	}
+	.search_form .srch_icon {
+		right: 12%;
+	}
+
+	/* testimonial */
+	.author_info {
+		width: 75%;
+	}
+
+	/* get in touch */
+
+	.single_post_box img {
+		margin-left: 80px;
+	}
+}
+@media only screen and (max-width: 430px){
+	.hero_section h1 {
+		padding-top: 95px;
+		font-size: 50px;
+	}
+	.common_btn {
+		font-size: 18px;
+	}
+	.scroll_btn .common_btn {
+		width: 145px !important;
+	}
+	.navbar-light .navbar-nav .nav-link.active::before {
+		width: 15%;
+	}
+	.single_team_member .social_icon {
+		width: 40%;
+	}
+	.single_post_box img {
+		margin-left: 50px;
+	}
+	.copyright_bar p {
+		font-size: 15px;
+		word-spacing: 2px;
+	}
+}
+
+@media only screen and (max-width: 390px){
+	/* Work With Us and Service part and About */
+		.about_us .single_about .common_btn,
+		.service_btn .common_btn,
+		.work_with_us .btn.common_btn {
+		font-size: 14px;
+	}
+
+		/* Team */
+
+	.team_bottom_style {
+		height: 55px;
+	}
+	.single_team_member img {
+		width: 95px;
+	}
+	.single_team_member .social_icon {
+		width: 35%;
+	}
+}
